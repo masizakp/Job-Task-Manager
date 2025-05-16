@@ -1,0 +1,9 @@
+admin, adm1n
+paul, masiza
+tebza, tebza1
+dad, dad1
+mom, mom1
+daddy, daddy1
+kool, kool1
+loop, loop1
+teacher, teacher1

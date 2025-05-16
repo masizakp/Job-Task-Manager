@@ -1,0 +1,10 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+paul, Register Users with task_manager.py, Use task_manager.py to assign each team member with appropriate tasks, 11 02 2025, 16 Feb 2025, No  
+root, tutoring, tutoring learners with short term memory, 17 02 2025, 23 Feb 2025, No  
+saaat, coding, coding my task.py and deburg it, 20-02-2025, 23 Feb 2025, No   
+wify, ask more questions to undersand, re-assign duties to my assistent , 20-02-2025, 25 Feb 2025, No 
+good, preaching, sing in the lord's house and preach the gospel, 19-02-2025, 25 Feb 2025, No   
+very, shopping, go to the shops and buy needed items, 15-02-2025, 25 Feb 2025, No   
+half, cut paper work, design a program that will be used to register users, 18-02-2025, 25 Feb 2025, No   
+gaat, hjhjjkj jkkjj , ghghghh jkjkjkjkj kjkjkj nnkkjk jjkjikhujij, 19-02-2025, 25 Feb 2025, No  
