@@ -1,1 +1,1 @@
-In this task, I was tasked to create a program for a small business to help it manage tasks assigned to each member of the team
+The goal of this task is to build a Python-based task management program (task_manager.py) to help a small business organize and manage team assignments. The system will handle user authentication, task creation, task viewing, and admin-level statistics using two text files: user.txt and tasks.txt.
